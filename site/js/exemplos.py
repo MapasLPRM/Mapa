@@ -42,7 +42,7 @@ def exemplo1():
  
 
 def exemplo_gdoc():
-    public_spreadsheet_url = 'https://docs.google.com/spreadsheet/pub?key=1JMRfKK2y56np1uPhz18RG3_GyVcZWp7Bx3VO6jd4fFw&single=true&gid=0&output=html';
+    public_spreadsheet_url = 'https://docs.google.com/spreadsheet/pub?key=1_ypl-yywe33_R9W3nYW240TEmvoI0ErdHyYpS6tbuxo&single=true&gid=0&output=html';
     mps = new Searchlight(public_spreadsheet_url,null,'map_gdoc',None, True, False)
 
 
