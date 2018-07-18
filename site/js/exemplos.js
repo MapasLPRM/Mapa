@@ -201,7 +201,7 @@ exemplo1 = function() {
 
 exemplo_gdoc = function() {
   var mps, public_spreadsheet_url;
-  public_spreadsheet_url = "https://docs.google.com/spreadsheets/d/1_ypl-yywe33_R9W3nYW240TEmvoI0ErdHyYpS6tbuxo/edit?usp=sharing";
+  public_spreadsheet_url = "https://docs.google.com/spreadsheets/d/e/2PACX-1vQjLdpQ-d-lvX0kCpFhGgL01-XV_AuWbF9S_GWkWXsLUgQl9_qpHZg6Jd2jlKDGgmG9X1NlYc-hNFbl/pubhtml";
   mps = new Searchlight(public_spreadsheet_url, null, "map_gdoc", null, true, false);
 };
 
