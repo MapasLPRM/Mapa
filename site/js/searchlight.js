@@ -1444,6 +1444,7 @@ Marcador = function(geoItem) {
   this.longitude = parseFloat(geoItem.longitude.replace(",", "."));
   this.texto = geoItem.texto;
   if (geoItem.icon) {
+	  alert(geoItem.icon);
     this.icon = geoItem.icon;
   } else {
     this.icon = sl_IconePadrao;
